@@ -139,4 +139,6 @@ use agreement requires.
 
 ## License
 
-To be confirmed before publication.
+MIT — see [LICENSE](LICENSE). The licence covers the code only; it grants no
+right to MIMIC-IV, which PhysioNet distributes to credentialed users under its
+own data use agreement.

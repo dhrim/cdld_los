@@ -125,4 +125,6 @@ PhysioNet v3.1 프로젝트 페이지, Goldberger et al.(*Circulation* 2000)을 
 
 ## 라이선스
 
-게재 전 확정 예정입니다.
+MIT — [LICENSE](LICENSE) 참조. 이 라이선스는 **코드에만** 적용됩니다. MIMIC-IV에
+대한 권리는 부여하지 않으며, 해당 데이터는 PhysioNet이 자체 데이터 사용 동의에
+따라 자격 보유자에게만 배포합니다.
