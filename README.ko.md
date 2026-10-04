@@ -1,5 +1,9 @@
 # CDLD-LoS — 의사 잠재특성을 이용한 재원일수 예측
 
+![CDLD-LoS overview](graphical_abstract/20261004_graphical_abstract.png)
+
+[SVG](graphical_abstract/20261004_graphical_abstract.svg) · [Python source](graphical_abstract/20261004_graphical_abstract.py)
+
 논문 「의사 잠재특성을 이용한 재원일수 예측」(심사 중)의 코드입니다.
 
 MIMIC-IV에서 입원 담당 의사는 비식별 식별자로만 존재하고 **관측 특성이 하나도

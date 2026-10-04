@@ -1,5 +1,9 @@
 # CDLD-LoS — Length-of-stay prediction using physician latent traits
 
+![CDLD-LoS overview](graphical_abstract/20261004_graphical_abstract.png)
+
+[SVG](graphical_abstract/20261004_graphical_abstract.svg) · [Python source](graphical_abstract/20261004_graphical_abstract.py)
+
 Code for the paper *"Length-of-stay prediction using physician latent traits"*
 (under review).
 
